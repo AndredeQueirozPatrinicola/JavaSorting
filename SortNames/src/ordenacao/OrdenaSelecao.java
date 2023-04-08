@@ -19,6 +19,7 @@ public class OrdenaSelecao {
             }
             
         }
+        System.out.println("Nomes ordenados");
         return data;
         
     }
